@@ -1,4 +1,4 @@
-baseURL               = "https://kufukuling-beep.github.io/zqjs/"
+baseURL               = "https://zqjs2.github.io/"
 languageCode          = "zh-CN"
 title                 = "我的网址导航"
 preserveTaxonomyNames = true
@@ -7,11 +7,11 @@ hasCJKLanguage        = true
 publishDir            = "public"
 
 [params]
-    author        = "kufukuling-beep"
+    author        = "zqjs2"
     description   = "我的网址导航"
-    upload        = "https://github.com/kufukuling-beep/zqjs"
-    about         = "https://github.com/kufukuling-beep/zqjs"
-    repository    = "https://github.com/kufukuling-beep/zqjs"
+    upload        = "https://github.com/zqjs2/zqjs2.github.io"
+    about         = "https://github.com/zqjs2/zqjs2.github.io"
+    repository    = "https://github.com/zqjs2/zqjs2.github.io"
     enablePreLoad = true
     textPreLoad   = "网址导航"
     expandSidebar = false
