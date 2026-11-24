@@ -1,0 +1,59 @@
+content:
+  - name: nav
+    label: 导航数据
+    type: file
+    path: exampleSite/data/webstack.yml
+    list: true
+    fields:
+      - name: taxonomy
+        label: 分类名称
+        type: string
+        required: true
+      - name: icon
+        label: 图标（可留空，如 fas fa-star）
+        type: string
+      - name: links
+        label: 直接属于本分类的网站
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: 网站名称
+            type: string
+          - name: url
+            label: 网址
+            type: string
+          - name: logo
+            label: Logo 文件名（可留空）
+            type: string
+          - name: description
+            label: 一句话描述
+            type: string
+          - name: qrcode
+            label: 二维码图片文件名（一般留空）
+            type: string
+      - name: list
+        label: 子分类
+        type: object
+        list: true
+        fields:
+          - name: term
+            label: 子分类名称
+            type: string
+          - name: links
+            label: 网站
+            type: object
+            list: true
+            fields:
+              - name: title
+                label: 网站名称
+                type: string
+              - name: url
+                label: 网址
+                type: string
+              - name: logo
+                label: Logo 文件名（可留空）
+                type: string
+              - name: description
+                label: 一句话描述
+                type: string
