@@ -602,6 +602,12 @@
           url: https://www.tutengberg.org/
         - title: 日本国立图书馆
           url: https://dl.ndl.go.jp
+        - title: 书格
+          url: shuge.org
+        - title: 识典古籍
+          url: shidianguji.com
+        - title: 中国哲学电子书计划
+          url: https://ctext.org
     - term: 博客论坛
       links:
         - title: Inoreader
