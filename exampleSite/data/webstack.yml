@@ -1,9 +1,8 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links:
-    - title: 语雀
-      url: https://www.yuque.com/
-      logo: 语雀.webp
+    - title: 子清见山
+      url: https://zqjs.ziqing.ccwu.cc/
       description: 专业的云端知识库。
     - title: Gmail
       url: http://kufukuling@gmail.com
