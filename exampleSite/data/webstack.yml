@@ -7,10 +7,8 @@
     - title: Gmail
       url: http://kufukuling@gmail.com
       description: 氟西汀
-    - title: 开源中国
-      url: https://www.oschina.net/
-      logo: 开源中国.jpg
-      description: 中文开源技术交流社区。
+    - title: 文章更新
+      url: https://github.com/zqjs2/mingli-site
     - title: 公众号平台
       url: https://mp.weixin.qq.com/
       logo: 微信公众号.png
