@@ -39,6 +39,9 @@
     - title: 工具箱
       url: https://www.mixtoolshub.com/
       description: 在线工具箱
+    - title: 硬核指南
+      url: https://yinghezhinan.com/
+      description: 在线集合工具
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
