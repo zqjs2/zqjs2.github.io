@@ -608,6 +608,9 @@
           url: shidianguji.com
         - title: 中国哲学电子书计划
           url: https://ctext.org
+        - title: 星意图书
+          url: xinyibooks.com
+          description: 台版
     - term: 博客论坛
       links:
         - title: Inoreader
