@@ -36,6 +36,9 @@
       url: https://zh.z-library.sk/
       logo: 关注.jpg
       description: 最大图书馆
+    - title: 工具箱
+      url: https://www.mixtoolshub.com/
+      description: 在线工具箱
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
