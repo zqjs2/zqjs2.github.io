@@ -32,11 +32,10 @@
       url: https://www.v2ex.com/
       logo: v2ex.jpg
       description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      url: https://www.bioitee.com
+    - title: zlibrary
+      url: https://zh.z-library.sk/
       logo: 关注.jpg
-      description: 微信公众号：BioIT 爱好者！
-      qrcode: qrcode.jpg
+      description: 最大图书馆
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
