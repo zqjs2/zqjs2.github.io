@@ -1,14 +1,14 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links:
-    - title: 氟西汀
+    - title: 语雀
       url: https://www.yuque.com/
       logo: 语雀.webp
       description: 专业的云端知识库。
-    - title: 氟西汀
+    - title: Gmail
       url: http://kufukuling@gmail.com
       description: 氟西汀
-    - title: 氟西汀
+    - title: 开源中国
       url: https://www.oschina.net/
       logo: 开源中国.jpg
       description: 中文开源技术交流社区。
