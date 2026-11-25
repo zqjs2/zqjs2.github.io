@@ -45,6 +45,8 @@
     - title: 移除付费墙
       url: https://paywallbuster.me/
       description: 移除付费墙
+    - title: 嘉立创3D
+      url: https://3d-viewer.jlc.com/
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
