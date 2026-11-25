@@ -17,18 +17,15 @@
       url: https://github.com/
       logo: github.png
       description: GitHub 开源社区。
-    - title: 搜狗微信
-      url: https://weixin.sogou.com/
-      logo: 搜狗微信.jpg
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      url: https://www.zhihu.com/
-      logo: 知乎.png
-      description: 知乎社区。
-    - title: V2EX
-      url: https://www.v2ex.com/
-      logo: v2ex.jpg
-      description: V2EX 创意工作者的社区。
+    - title: 实时地球
+      url: https://zoom.earth
+      description: 地球实时卫星画面
+    - title: 全球飞机
+      url: https://flightradar24.com/
+      description: 实时查看全球飞机
+    - title: 实时船只
+      url: https://marinetraffic.com/
+      description: 实时查看全球海面船只
     - title: zlibrary
       url: https://zh.z-library.sk/
       logo: 关注.jpg
@@ -50,6 +47,20 @@
       url: https://coverr.co/videos/blue-joy-Nzuk6cZZVS
     - title: 小众软件
       url: https://www.appinn.com
+    - title: 世界碳排放
+      url: https://worldometers.info
+    - title: 漫游太阳系
+      url: https://eyes.nasa.gov
+    - title: NASA每日天文
+      url: https://apod.nasa.gov
+    - title: NAS图像档案
+      url: https://images.nasa.gov
+    - title: 全球陌生
+      url: window-swap.com
+    - title: 国家地图对比
+      url: thetruesize.com
+    - title: 开源地图
+      url: openstreetmap.org
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -79,6 +90,16 @@
           url: http://www.bioconductor.org/
           logo: bioconductor.jpg
           description: http://www.bioconductor.org
+        - title: 全球博物馆
+          url: artsandculture.google.com
+        - title: 荷兰国立博物馆
+          url: rijksmuseum.nl
+        - title: 大都会艺术馆
+          url: metmuseum.org
+        - title: 艺术品博物馆
+          url: wikiart.org
+        - title: 欧洲博物馆
+          url: europeana.eu
     - term: 云服务器
       links:
         - title: 阿里云
@@ -569,6 +590,18 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: 互联网档案馆
+          url: archive.org
+        - title: 电子书库
+          url: gutenberg.org
+        - title: 美国国会图书馆
+          url: loc.gov
+        - title: 全球论文
+          url: arxiv.org
+        - title: 古腾堡计划
+          url: https://www.tutengberg.org/
+        - title: 日本国立图书馆
+          url: https://dl.ndl.go.jp
     - term: 博客论坛
       links:
         - title: Inoreader
