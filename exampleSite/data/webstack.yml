@@ -61,6 +61,12 @@
       url: thetruesize.com
     - title: 开源地图
       url: openstreetmap.org
+    - title: 万事通
+      url: https://zh.wikihow.com
+    - title: 思维导图
+      url: www.processon.com
+    - title: 实况监控
+      url: hwww.skylinewebcams.com
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
