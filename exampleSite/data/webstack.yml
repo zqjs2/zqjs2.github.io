@@ -42,6 +42,9 @@
     - title: 硬核指南
       url: https://yinghezhinan.com/
       description: 在线集合工具
+    - title: 移除付费墙
+      url: https://paywallbuster.me/
+      description: 移除付费墙
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
