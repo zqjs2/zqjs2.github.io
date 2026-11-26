@@ -97,15 +97,15 @@
           logo: bioconductor.jpg
           description: http://www.bioconductor.org
         - title: 全球博物馆
-          url: artsandculture.google.com
+          url: https://artsandculture.google.com/
         - title: 荷兰国立博物馆
-          url: rijksmuseum.nl
+          url: https://www.rijksmuseum.nl/nl
         - title: 大都会艺术馆
-          url: metmuseum.org
+          url: https://www.metmuseum.org/zh
         - title: 艺术品博物馆
-          url: wikiart.org
+          url: http://wikiart.org/
         - title: 欧洲博物馆
-          url: europeana.eu
+          url: https://www.europeana.eu/en
     - term: 云服务器
       links:
         - title: 阿里云
